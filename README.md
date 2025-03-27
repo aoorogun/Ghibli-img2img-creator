@@ -87,6 +87,7 @@ ghibli-img2img-creator
 
 - Powered by [Hugging Face Diffusers](https://github.com/huggingface/diffusers)  
 - LoRA models by creators from [CivitAI](https://civitai.com) and the open ML community
+- Shoutout to Bryan Lee of the animegan2-pytorch team.
 
 ##  Issues or Contributions
 
@@ -101,4 +102,4 @@ Feel free to open issues or contribute:
 
 ---
 
-Shoutout to the animegan2-pytorch team.
+
