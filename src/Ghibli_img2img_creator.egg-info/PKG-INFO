@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: Ghibli-img2img-creator
 Version: 0.0.0
 Summary: A gradio app implementation of Ghibli image generator
@@ -6,14 +6,6 @@ Home-page: https://github.com/aoorogun/Ghibli-img2img-creator
 Author: aoorogun
 Author-email: info@oaorgun.co.uk
 Project-URL: Bug Tracker, https://github.com/aoorogun/Ghibli-img2img-creator/issues
-License-File: LICENSE
-Dynamic: author
-Dynamic: author-email
-Dynamic: description
-Dynamic: home-page
-Dynamic: license-file
-Dynamic: project-url
-Dynamic: summary
 
 ## PyTorch Implementation of [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 

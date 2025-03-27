@@ -1,4 +1,3 @@
-LICENSE
 README.md
 setup.py
 src/Ghibli_img2img_creator.egg-info/PKG-INFO
