@@ -69,3 +69,37 @@ Visit the local app at: [http://localhost:7860](http://localhost:7860)
 - **Prompt** – Describe the Ghibli-style scene  
 - **Style Strength** – Degree of stylization (0.3 to 0.9)  
 - **Guidance Scale** – How closely it follows the prompt (1 to 15)  
+- **Inference Steps** – Number of diffusion steps (10 to 50)  
+
+##  Install as a Package
+
+```bash
+pip install .
+```
+
+Then run:
+
+```bash
+ghibli-img2img-creator
+```
+
+## 🧠 Credits
+
+- Powered by [Hugging Face Diffusers](https://github.com/huggingface/diffusers)  
+- LoRA models by creators from [CivitAI](https://civitai.com) and the open ML community
+- Shoutout to Bryan Lee of the animegan2-pytorch team.
+
+##  Issues or Contributions
+
+Feel free to open issues or contribute:  
+ [https://github.com/aoorogun/Ghibli-img2img-creator/issues](https://github.com/aoorogun/Ghibli-img2img-creator/issues)
+
+## 📧 Author
+
+**Aoorogun**  
+📮 info@oaorgun.co.uk  
+🌐 [https://github.com/aoorogun](https://github.com/aoorogun)
+
+---
+
+
