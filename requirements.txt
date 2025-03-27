@@ -1,0 +1,10 @@
+torch >= 1.7.1
+torchvision
+torch
+diffusers
+transformers
+gradio
+safetensors
+peft
+Pillow
+-e .

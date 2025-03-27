@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+src/Ghibli_img2img_creator.egg-info/PKG-INFO
+src/Ghibli_img2img_creator.egg-info/SOURCES.txt
+src/Ghibli_img2img_creator.egg-info/dependency_links.txt
+src/Ghibli_img2img_creator.egg-info/top_level.txt
+src/app/__init__.py
+src/app/config.py
+src/app/interface.py
+src/app/model_loader.py
+src/app/stylizer.py
